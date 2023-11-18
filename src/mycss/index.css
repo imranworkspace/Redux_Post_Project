@@ -1,0 +1,23 @@
+.myclass {
+    float: left;
+    width: 220px;
+    height: auto;
+    display: inline-block;
+    background-color: darkslategrey;
+    color: white;
+    border: 2px thin #ccc;
+    padding: 10px;
+  }
+  
+  .myclass button{
+    background-color: purple;
+    color: white;
+  }
+
+  .myposts {
+    float: right;
+    margin-right: 10%;
+    border: 2px solid peru;
+    border-radius: 15px;
+    padding: 5px;
+  }
